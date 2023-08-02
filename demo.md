@@ -1,6 +1,5 @@
-
-  # MEME
-  ![GitHub](https://img.shields.io/github/license/undefined/undefined)
+# Readme
+ ![](https://img.shields.io/badge/license-MIT-green)
 
   ## Discription
-   BIGBOY
+   readme
