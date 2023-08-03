@@ -108,7 +108,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What license would you like to use?',
-        choices: [`MIT`, `APACHE 2.0`,'GPL 3.0',"BSD 3", `none`],
+        choices: [`MIT`, `APACHE`,'GPL',"BSD", `none`],
         when: ({ licenseCon }) => {
             if (licenseCon) {
                 return false;
